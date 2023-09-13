@@ -1,0 +1,18 @@
+a{
+    color: rgb(45, 40, 141);
+}
+a:link{
+    color: purple;
+}
+a:visited{
+    color: gray;
+}
+a:hover{
+    background-color: aquamarine;
+}
+a:focus{
+    outline: 1px solid palegreen;
+}
+a:active{
+    color: black;
+} 
